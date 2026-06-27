@@ -7,7 +7,7 @@
 
 ## ⚙️ Things I Code With
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,vue,supabase,laragon,gsap,tailwind,bootstrap,figma,git,postman,&)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,vue,supabase,nodejs,mysql,tailwind,bootstrap,figma,git,postman,&)](https://skillicons.dev)
 
 
 ## 🪢 Let's Connect and Collaborate
